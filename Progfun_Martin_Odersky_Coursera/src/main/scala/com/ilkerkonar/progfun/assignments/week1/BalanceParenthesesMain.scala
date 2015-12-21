@@ -1,4 +1,4 @@
-package com.ilkerkonar.progfun.assignments.week1.pascalstriangle
+package com.ilkerkonar.progfun.assignments.week1
 
 object BalanceParenthesesMain {
 

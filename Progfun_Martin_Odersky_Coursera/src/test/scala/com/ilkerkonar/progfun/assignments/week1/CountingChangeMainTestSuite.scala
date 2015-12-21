@@ -1,8 +1,9 @@
-package com.ilkerkonar.progfun.assignments.week1.pascalstriangle
+package com.ilkerkonar.progfun.assignments.week1
 
-import org.scalatest.FunSuite
 import org.junit.runner.RunWith
+import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
+
 import CountingChangeMain.countChange
 
 @RunWith( classOf[ JUnitRunner ] )
