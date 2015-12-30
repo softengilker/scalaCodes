@@ -6,7 +6,7 @@ repositories {
 }
 
 dependencies {
-    compile 'org.scala-lang:scala-library:2.11.7'
+    compile 'org.scala-lang:scala-library-all:2.11.7'
     testCompile "junit:junit:4.11"
     testCompile "org.scalatest:scalatest_2.11:2.2.5"    		
 }
